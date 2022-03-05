@@ -3,6 +3,6 @@
 - 🔭 I’m currently working on a forum website
 - 🌱 I’m currently learning Laravel and improving English conversation and writing.
 - 💬 Ask me about **PHP**
-- 📫 How to reach me: `kaix.dev`
+- 📫 How to reach me: `kaixsean.com`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like dogs, but I like a cat.

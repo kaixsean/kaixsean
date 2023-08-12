@@ -7,5 +7,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like dogs, but I like a cat.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kaixsean&theme=gruvbox)](https://github.com/kaixsean/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaixsean&layout=compact&theme=gruvbox)](https://github.com/kaixsean/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kaixsean&theme=onedark)](https://github.com/kaixsean/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaixsean&layout=compact&theme=onedark)](https://github.com/kaixsean/github-readme-stats)
